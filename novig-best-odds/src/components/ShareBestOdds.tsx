@@ -168,9 +168,9 @@ export function ShareBestOdds({ games, className = '' }: ShareBestOddsProps) {
           onClick={handleShowPicks}
           variant="default"
           size="lg"
-          className="gap-3 bg-emerald-600 hover:bg-emerald-700 text-white font-semibold text-lg px-8 py-4 h-auto shadow-lg"
+          className="gap-2 md:gap-3 bg-emerald-600 hover:bg-emerald-700 text-white font-semibold text-base md:text-lg px-6 md:px-8 py-3 md:py-4 h-auto shadow-lg w-full sm:w-auto"
         >
-          <Share2 className="h-5 w-5" />
+          <Share2 className="h-4 w-4 md:h-5 md:w-5" />
           View Our Value Picks
         </Button>
       </div>
@@ -182,7 +182,7 @@ export function ShareBestOdds({ games, className = '' }: ShareBestOddsProps) {
           onClick={closePopup}
         >
           <div 
-            className="bg-white dark:bg-gray-900 rounded-xl shadow-2xl max-w-lg w-full max-h-[85vh] overflow-hidden border border-gray-200 dark:border-gray-700"
+            className="bg-white dark:bg-gray-900 rounded-xl shadow-2xl max-w-lg w-full max-h-[90vh] md:max-h-[85vh] overflow-hidden border border-gray-200 dark:border-gray-700"
             onClick={(e) => e.stopPropagation()}
           >
             {/* Header */}
