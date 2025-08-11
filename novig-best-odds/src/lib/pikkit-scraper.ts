@@ -287,7 +287,7 @@ function getTeamNameFromAbbreviation(abbr: string): string {
 }
 
 // Function to be called from the browser console
-export function scrapePikkitFromConsole(): void {
+export function scrapePikkitFromConsole(): PikkitGameData[] {
   console.log('Starting Pikkit data extraction...')
   
   const games = extractPikkitDataFromDOM()
