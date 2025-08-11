@@ -6,7 +6,7 @@ import { ToastProvider, ToastViewport } from '@/components/ui/toast'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Novig - Best Odds Right Now',
+  title: 'Odds Edge - Best Odds Right Now',
   description: 'Check this page before you bet. If Novig has the best line, you\'ll make more.',
 }
 
