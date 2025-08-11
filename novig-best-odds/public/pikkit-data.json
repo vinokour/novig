@@ -1,0 +1,592 @@
+[
+  {
+    "id": "pikkit-game-0",
+    "sport": "MLB",
+    "league": "MLB",
+    "gameTime": "TBD",
+    "awayTeam": {
+      "name": "Philadelphia Phillies",
+      "abbreviation": "PHI"
+    },
+    "homeTeam": {
+      "name": "Cincinnati Reds",
+      "abbreviation": "CIN"
+    },
+    "spreadLine": 1.5,
+    "awaySpreadLine": 1.5,
+    "homeSpreadLine": 1.5,
+    "totalLine": 9.5,
+    "formattedSpreadLine": "+1.5",
+    "sportsbooks": [
+      {
+        "name": "Novig",
+        "abbreviation": "N",
+        "odds": {
+          "moneyline": 115,
+          "spread": -178,
+          "totalOver": -104,
+          "totalUnder": -104
+        }
+      },
+      {
+        "name": "Pikkit",
+        "abbreviation": "PK",
+        "odds": {
+          "moneyline": -116,
+          "spread": -179,
+          "totalOver": -104,
+          "totalUnder": -104
+        }
+      }
+    ],
+    "awayTeamOdds": {
+      "moneyline": 115,
+      "spread": -178
+    },
+    "homeTeamOdds": {
+      "moneyline": -116,
+      "spread": -179
+    },
+    "sportsbookLogos": {
+      "moneyline": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spread": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "totalOver": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "totalUnder": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "moneylineAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "moneylineHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png"
+    }
+  },
+  {
+    "id": "pikkit-game-1",
+    "sport": "MLB",
+    "league": "MLB",
+    "gameTime": "TBD",
+    "awayTeam": {
+      "name": "Minnesota Twins",
+      "abbreviation": "MIN"
+    },
+    "homeTeam": {
+      "name": "New York Yankees",
+      "abbreviation": "NYY"
+    },
+    "spreadLine": 1.5,
+    "awaySpreadLine": 1.5,
+    "homeSpreadLine": 1.5,
+    "totalLine": 8.5,
+    "formattedSpreadLine": "+1.5",
+    "sportsbooks": [
+      {
+        "name": "Novig",
+        "abbreviation": "N",
+        "odds": {
+          "moneyline": 165,
+          "spread": -291,
+          "totalOver": -111,
+          "totalUnder": -125
+        }
+      },
+      {
+        "name": "Pikkit",
+        "abbreviation": "PK",
+        "odds": {
+          "moneyline": -171,
+          "spread": -128,
+          "totalOver": -111,
+          "totalUnder": -125
+        }
+      }
+    ],
+    "awayTeamOdds": {
+      "moneyline": 165,
+      "spread": -291
+    },
+    "homeTeamOdds": {
+      "moneyline": -171,
+      "spread": -128
+    },
+    "sportsbookLogos": {
+      "moneyline": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spread": "https://d31zyv2gw1yfmz.cloudfront.net/brands/62167bf7614389c4baf2d01c.png",
+      "totalOver": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "totalUnder": "https://d31zyv2gw1yfmz.cloudfront.net/brands/6488a765549e2db791b0c935.png",
+      "moneylineAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "moneylineHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/62167bf7614389c4baf2d01c.png",
+      "spreadAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png"
+    }
+  },
+  {
+    "id": "pikkit-game-2",
+    "sport": "MLB",
+    "league": "MLB",
+    "gameTime": "TBD",
+    "awayTeam": {
+      "name": "Pittsburgh Pirates",
+      "abbreviation": "PIT"
+    },
+    "homeTeam": {
+      "name": "Milwaukee Brewers",
+      "abbreviation": "MIL"
+    },
+    "spreadLine": -1.5,
+    "awaySpreadLine": -1.5,
+    "homeSpreadLine": 1.5,
+    "totalLine": 8.5,
+    "formattedSpreadLine": "-1.5",
+    "sportsbooks": [
+      {
+        "name": "Novig",
+        "abbreviation": "N",
+        "odds": {
+          "moneyline": 183,
+          "spread": -102,
+          "totalOver": -121,
+          "totalUnder": -115
+        }
+      },
+      {
+        "name": "Pikkit",
+        "abbreviation": "PK",
+        "odds": {
+          "moneyline": -188,
+          "spread": -102,
+          "totalOver": -121,
+          "totalUnder": -115
+        }
+      }
+    ],
+    "awayTeamOdds": {
+      "moneyline": 183,
+      "spread": -102
+    },
+    "homeTeamOdds": {
+      "moneyline": -188,
+      "spread": -102
+    },
+    "sportsbookLogos": {
+      "moneyline": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spread": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "totalOver": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "totalUnder": "https://d31zyv2gw1yfmz.cloudfront.net/brands/62167bea614389c4baf2d01a.png",
+      "moneylineAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "moneylineHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png"
+    }
+  },
+  {
+    "id": "pikkit-game-3",
+    "sport": "MLB",
+    "league": "MLB",
+    "gameTime": "TBD",
+    "awayTeam": {
+      "name": "Washington Nationals",
+      "abbreviation": "WSH"
+    },
+    "homeTeam": {
+      "name": "Kansas City Royals",
+      "abbreviation": "KC"
+    },
+    "spreadLine": -1.5,
+    "awaySpreadLine": -1.5,
+    "homeSpreadLine": 1.5,
+    "totalLine": 8.5,
+    "formattedSpreadLine": "-1.5",
+    "sportsbooks": [
+      {
+        "name": "Novig",
+        "abbreviation": "N",
+        "odds": {
+          "moneyline": 135,
+          "spread": 151,
+          "totalOver": 100,
+          "totalUnder": -115
+        }
+      },
+      {
+        "name": "Pikkit",
+        "abbreviation": "PK",
+        "odds": {
+          "moneyline": -136,
+          "spread": -160,
+          "totalOver": 100,
+          "totalUnder": -115
+        }
+      }
+    ],
+    "awayTeamOdds": {
+      "moneyline": 135,
+      "spread": 151
+    },
+    "homeTeamOdds": {
+      "moneyline": -136,
+      "spread": -160
+    },
+    "sportsbookLogos": {
+      "moneyline": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spread": "https://d31zyv2gw1yfmz.cloudfront.net/brands/62167c03614389c4baf2d01e.png",
+      "totalOver": "https://d31zyv2gw1yfmz.cloudfront.net/brands/62167bea614389c4baf2d01a.png",
+      "totalUnder": "https://d31zyv2gw1yfmz.cloudfront.net/brands/6488a765549e2db791b0c935.png",
+      "moneylineAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "moneylineHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/62167c03614389c4baf2d01e.png",
+      "spreadAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png"
+    }
+  },
+  {
+    "id": "pikkit-game-4",
+    "sport": "MLB",
+    "league": "MLB",
+    "gameTime": "TBD",
+    "awayTeam": {
+      "name": "Detroit Tigers",
+      "abbreviation": "DET"
+    },
+    "homeTeam": {
+      "name": "Chicago White Sox",
+      "abbreviation": "CWS"
+    },
+    "spreadLine": 1.5,
+    "awaySpreadLine": 1.5,
+    "homeSpreadLine": -1.5,
+    "totalLine": 8.5,
+    "formattedSpreadLine": "+1.5",
+    "sportsbooks": [
+      {
+        "name": "Novig",
+        "abbreviation": "N",
+        "odds": {
+          "moneyline": -135,
+          "spread": -126,
+          "totalOver": -122,
+          "totalUnder": -115
+        }
+      },
+      {
+        "name": "Pikkit",
+        "abbreviation": "PK",
+        "odds": {
+          "moneyline": 130,
+          "spread": 115,
+          "totalOver": -122,
+          "totalUnder": -115
+        }
+      }
+    ],
+    "awayTeamOdds": {
+      "moneyline": -135,
+      "spread": -126
+    },
+    "homeTeamOdds": {
+      "moneyline": 130,
+      "spread": 115
+    },
+    "sportsbookLogos": {
+      "moneyline": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spread": "https://d31zyv2gw1yfmz.cloudfront.net/brands/63d144e0c68fb6437cf98dec.png",
+      "totalOver": "https://d31zyv2gw1yfmz.cloudfront.net/brands/62167bf7614389c4baf2d01c.png",
+      "totalUnder": "https://d31zyv2gw1yfmz.cloudfront.net/brands/6488a765549e2db791b0c935.png",
+      "moneylineAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "moneylineHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/63d144e0c68fb6437cf98dec.png",
+      "spreadAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png"
+    }
+  },
+  {
+    "id": "pikkit-game-5",
+    "sport": "MLB",
+    "league": "MLB",
+    "gameTime": "TBD",
+    "awayTeam": {
+      "name": "Colorado Rockies",
+      "abbreviation": "COL"
+    },
+    "homeTeam": {
+      "name": "St. Louis Cardinals",
+      "abbreviation": "STL"
+    },
+    "spreadLine": -1.5,
+    "awaySpreadLine": -1.5,
+    "homeSpreadLine": 1.5,
+    "totalLine": 8.5,
+    "formattedSpreadLine": "-1.5",
+    "sportsbooks": [
+      {
+        "name": "Novig",
+        "abbreviation": "N",
+        "odds": {
+          "moneyline": 185,
+          "spread": 102,
+          "totalOver": 100,
+          "totalUnder": -107
+        }
+      },
+      {
+        "name": "Pikkit",
+        "abbreviation": "PK",
+        "odds": {
+          "moneyline": -196,
+          "spread": -110,
+          "totalOver": 100,
+          "totalUnder": -107
+        }
+      }
+    ],
+    "awayTeamOdds": {
+      "moneyline": 185,
+      "spread": 102
+    },
+    "homeTeamOdds": {
+      "moneyline": -196,
+      "spread": -110
+    },
+    "sportsbookLogos": {
+      "moneyline": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spread": "https://d31zyv2gw1yfmz.cloudfront.net/brands/62167c03614389c4baf2d01e.png",
+      "totalOver": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "totalUnder": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "moneylineAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "moneylineHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/62167c03614389c4baf2d01e.png",
+      "spreadAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/63d144e0c68fb6437cf98dec.png"
+    }
+  },
+  {
+    "id": "pikkit-game-6",
+    "sport": "MLB",
+    "league": "MLB",
+    "gameTime": "TBD",
+    "awayTeam": {
+      "name": "Arizona Diamondbacks",
+      "abbreviation": "ARI"
+    },
+    "homeTeam": {
+      "name": "Texas Rangers",
+      "abbreviation": "TEX"
+    },
+    "spreadLine": -1.5,
+    "awaySpreadLine": -1.5,
+    "homeSpreadLine": 1.5,
+    "totalLine": 7,
+    "formattedSpreadLine": "-1.5",
+    "sportsbooks": [
+      {
+        "name": "Novig",
+        "abbreviation": "N",
+        "odds": {
+          "moneyline": 152,
+          "spread": 140,
+          "totalOver": -132,
+          "totalUnder": -107
+        }
+      },
+      {
+        "name": "Pikkit",
+        "abbreviation": "PK",
+        "odds": {
+          "moneyline": -156,
+          "spread": -149,
+          "totalOver": -132,
+          "totalUnder": -107
+        }
+      }
+    ],
+    "awayTeamOdds": {
+      "moneyline": 152,
+      "spread": 140
+    },
+    "homeTeamOdds": {
+      "moneyline": -156,
+      "spread": -149
+    },
+    "sportsbookLogos": {
+      "moneyline": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spread": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "totalOver": "https://d31zyv2gw1yfmz.cloudfront.net/brands/63d144e0c68fb6437cf98dec.png",
+      "totalUnder": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "moneylineAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "moneylineHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/62167bf7614389c4baf2d01c.png"
+    }
+  },
+  {
+    "id": "pikkit-game-7",
+    "sport": "MLB",
+    "league": "MLB",
+    "gameTime": "TBD",
+    "awayTeam": {
+      "name": "Boston Red Sox",
+      "abbreviation": "BOS"
+    },
+    "homeTeam": {
+      "name": "Houston Astros",
+      "abbreviation": "HOU"
+    },
+    "spreadLine": 1.5,
+    "awaySpreadLine": 1.5,
+    "homeSpreadLine": -1.5,
+    "totalLine": 7.5,
+    "formattedSpreadLine": "+1.5",
+    "sportsbooks": [
+      {
+        "name": "Novig",
+        "abbreviation": "N",
+        "odds": {
+          "moneyline": -160,
+          "spread": -109,
+          "totalOver": -110,
+          "totalUnder": 1018
+        }
+      },
+      {
+        "name": "Pikkit",
+        "abbreviation": "PK",
+        "odds": {
+          "moneyline": 157,
+          "spread": 107,
+          "totalOver": -110,
+          "totalUnder": 1018
+        }
+      }
+    ],
+    "awayTeamOdds": {
+      "moneyline": -160,
+      "spread": -109
+    },
+    "homeTeamOdds": {
+      "moneyline": 157,
+      "spread": 107
+    },
+    "sportsbookLogos": {
+      "moneyline": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spread": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "totalOver": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "totalUnder": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "moneylineAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "moneylineHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png"
+    }
+  },
+  {
+    "id": "pikkit-game-8",
+    "sport": "MLB",
+    "league": "MLB",
+    "gameTime": "TBD",
+    "awayTeam": {
+      "name": "Los Angeles Dodgers",
+      "abbreviation": "LAD"
+    },
+    "homeTeam": {
+      "name": "Los Angeles Angels",
+      "abbreviation": "LAA"
+    },
+    "spreadLine": 1.5,
+    "awaySpreadLine": 1.5,
+    "homeSpreadLine": -1.5,
+    "totalLine": 8,
+    "formattedSpreadLine": "+1.5",
+    "sportsbooks": [
+      {
+        "name": "Novig",
+        "abbreviation": "N",
+        "odds": {
+          "moneyline": -168,
+          "spread": 100,
+          "totalOver": -115,
+          "totalUnder": -108
+        }
+      },
+      {
+        "name": "Pikkit",
+        "abbreviation": "PK",
+        "odds": {
+          "moneyline": 163,
+          "spread": -107,
+          "totalOver": -115,
+          "totalUnder": -108
+        }
+      }
+    ],
+    "awayTeamOdds": {
+      "moneyline": -168,
+      "spread": 100
+    },
+    "homeTeamOdds": {
+      "moneyline": 163,
+      "spread": -107
+    },
+    "sportsbookLogos": {
+      "moneyline": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spread": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "totalOver": "https://d31zyv2gw1yfmz.cloudfront.net/brands/6488a765549e2db791b0c935.png",
+      "totalUnder": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "moneylineAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "moneylineHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png"
+    }
+  },
+  {
+    "id": "pikkit-game-9",
+    "sport": "MLB",
+    "league": "MLB",
+    "gameTime": "TBD",
+    "awayTeam": {
+      "name": "San Diego Padres",
+      "abbreviation": "SD"
+    },
+    "homeTeam": {
+      "name": "San Francisco Giants",
+      "abbreviation": "SF"
+    },
+    "spreadLine": 1.5,
+    "awaySpreadLine": 1.5,
+    "homeSpreadLine": 1.5,
+    "totalLine": 7,
+    "formattedSpreadLine": "+1.5",
+    "sportsbooks": [
+      {
+        "name": "Novig",
+        "abbreviation": "N",
+        "odds": {
+          "moneyline": 118,
+          "spread": -223,
+          "totalOver": -124,
+          "totalUnder": -122
+        }
+      },
+      {
+        "name": "Pikkit",
+        "abbreviation": "PK",
+        "odds": {
+          "moneyline": -125,
+          "spread": -180,
+          "totalOver": -124,
+          "totalUnder": -122
+        }
+      }
+    ],
+    "awayTeamOdds": {
+      "moneyline": 118,
+      "spread": -223
+    },
+    "homeTeamOdds": {
+      "moneyline": -125,
+      "spread": -180
+    },
+    "sportsbookLogos": {
+      "moneyline": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spread": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "totalOver": "https://d31zyv2gw1yfmz.cloudfront.net/brands/62167bf0614389c4baf2d01b.png",
+      "totalUnder": "https://d31zyv2gw1yfmz.cloudfront.net/brands/62167bf7614389c4baf2d01c.png",
+      "moneylineAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "moneylineHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadHome": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png",
+      "spreadAway": "https://d31zyv2gw1yfmz.cloudfront.net/brands/66ec6d77a735d9808f158314.png"
+    }
+  }
+]
