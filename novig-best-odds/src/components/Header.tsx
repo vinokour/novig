@@ -37,7 +37,7 @@ export function Header() {
         <div className="flex items-center space-x-2 md:space-x-6">
           <div className="hidden sm:flex items-center space-x-1 text-xs md:text-sm text-gray-600">
             <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></div>
-            <span className="hidden md:inline">Accurate data according to Pikkit. Updated as of 5:27 on August 11th</span>
+            <span className="hidden md:inline">Accurate data according to Pikkit. Updated as of 9:20 on August 12th</span>
             <span className="md:hidden">{currentTime}</span>
           </div>
           <a 
